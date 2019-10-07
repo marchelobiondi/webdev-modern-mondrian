@@ -34,6 +34,10 @@ body , html {
     background-color: black;   
 }
 
+.greeen {
+    background-color: green
+}
+
 .right {
     float: right;
 }
@@ -92,7 +96,7 @@ body , html {
 }
 
 
-.tinybox{
+#tinybox{
     height: 45px;
     width: 20px;
 }
@@ -108,4 +112,10 @@ body , html {
 #tinybox{
     height: 45px;
     width: 20px;
+}
+.green {
+    background-color: green
+}
+.red {
+    background-color: aqua
 }
